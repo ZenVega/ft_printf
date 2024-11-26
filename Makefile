@@ -16,6 +16,7 @@ CFILES = \
 ../ft_printf/ft_putnbr_fd.c\
 ../ft_printf/ft_putnbr_base.c\
 ../ft_printf/ft_printnbr.c\
+../ft_printf/ft_print.c\
 ../ft_printf/ft_printprcnt.c\
 ../ft_printf/ft_strchr.c\
 ../ft_printf/ft_strlen.c\
